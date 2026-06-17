@@ -11,7 +11,7 @@ fruit = "mango"; // variable reassignment
 console.log(fruit);
 
 /* var keyword is not a reliable method to declare variables 
-as they allow reassignment anf redeclaration easily */
+as they allow reassignment and redeclaration easily */
 
 var cloud = ['aws', 'IBM', 'microsoft'];
 
